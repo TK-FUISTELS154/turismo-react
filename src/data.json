@@ -1,0 +1,132 @@
+{
+  "navigation": [
+    { "name": "Inicio", "url": "#inicio" },
+    { "name": "Institución", "url": "#institucion" },
+    {
+      "name": "Visita Bolivia",
+      "url": "#visita-bolivia",
+      "submenu": [
+        { "name": "Oferta Turística", "url": "#" },
+        { "name": "Calendario", "url": "#" },
+        { "name": "Chuquisaca", "url": "#" },
+        { "name": "Potosí", "url": "#potosi" },
+        { "name": "La Paz", "url": "#" },
+        { "name": "Oruro", "url": "#" },
+        { "name": "Santa Cruz", "url": "#" },
+        { "name": "Tarija", "url": "#" },
+        { "name": "Pando", "url": "#" },
+        { "name": "Beni", "url": "#" },
+        { "name": "Cochabamba", "url": "#" }
+      ]
+    },
+    { "name": "Actividades y noticias", "url": "#" },
+    {
+      "name": "Demanda Turística Receptiva",
+      "url": "#",
+      "submenu": [
+        { "name": "Gráficos mensuales", "url": "#" },
+        { "name": "Gráficos anuales", "url": "#" }
+      ]
+    },
+    { "name": "Gasto Turístico Internacional", "url": "#" },
+    {
+      "name": "Documentos",
+      "url": "#",
+      "submenu": [
+        { "name": "Información estadística", "url": "#" },
+        { "name": "Convocatoria", "url": "#" },
+        { "name": "Normativa Turística", "url": "#" },
+        { "name": "Guía Técnica del Inventario", "url": "#" },
+        { "name": "SIRETUR", "url": "#" },
+        { "name": "Catálogos y Guías", "url": "#" },
+        { "name": "200 años 200 Destinos", "url": "#" },
+        { "name": "PSDI Sector Turístico", "url": "#" }
+      ]
+    },
+    { "name": "Galeria", "url": "#galeria" }
+  ],
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Ciudad de Potosí",
+      "description": "En la época de la colonia fue la ciudad más poblada de todo el mundo superando a ciudades de Europa como Madrid, su riqueza mineral la hizo grande, visitar sus calles nos transporta en el tiempo.",
+      "stars": 5,
+      "image": "./assets/img/potosi-view1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Cerro Rico o Sumaj Orcko",
+      "description": "Ingresar a los socavones donde los mineros desde hace muchos años extrajeron el mineral nos muestra el duro trabajo, vale la pena no solo verlo, sino visitarlo.",
+      "stars": 5,
+      "image": "./assets/img/potosi-view2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Desiertos Blancos (Salar de Uyuni)",
+      "description": "Definitivamente es único en el mundo, donde se conjuga el cielo con la tierra convirtiéndose en uno solo, el destino turístico más importante de nuestro país, donde se encuentra también Incahuasi (La Isla del Pescado) el cual junto con otras son porciones de tierra con flora y fauna propias, como así también Colchani donde elaboran todo tipo de material en base a la sal, sin dudas vale la pena estar en este hermoso destino turístico.",
+      "stars": 5,
+      "image": "./assets/img/SALAR-DE-UYUNI-2-HUASCAR-INTI-sc.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Cementerio de Trenes",
+      "description": "Estos trenes que llegaron en 1899 son la muestra del progreso estancado en el tiempo, ningún viajero pasaría de largo, un museo al aire libre.",
+      "stars": 5,
+      "image": "./assets/img/potosi-view3.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Laguna Colorada y Laguna Verde",
+      "description": "Al sud oeste se encuentra la Reserva Eduardo Avaroa lugar donde los flamencos rosados posan en sus aguas, es un sitio paradisiaco.",
+      "stars": 5,
+      "image": "./assets/img/pt5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Toro Toro",
+      "description": "Ubicado al norte del departamento de Potosí, se encuentra este sitio natural y llegando por Cochabamba se puede visitar y ver cañones, cavernas y caídas de agua espectaculares.",
+      "stars": 5,
+      "image": "./assets/img/potosi-view4.jpg"
+    }
+  ],
+  "gallery": [
+    { "title": "Vista de la Ciudad de Potosí", "src": "./assets/img/potosi-view1.jpg" },
+    { "title": "Cerro Rico o Sumaj Orcko", "src": "./assets/img/potosi-view2.jpg" },
+    { "title": "Laguna Altiplánica", "src": "./assets/img/pt5.jpg" },
+    { "title": "Salar de Uyuni", "src": "./assets/img/SALAR-DE-UYUNI-2-HUASCAR-INTI-sc.jpg" },
+    { "title": "Isla Incahuasi", "src": "./assets/img/Salar-10-scaled.jpg" },
+    { "title": "Cementerio de Trenes", "src": "./assets/img/potosi-view3.jpg" }
+  ],
+  "thematics": {
+    "patrimonial": {
+      "title": "Potosí Patrimonial",
+      "text": "La ciudad de Potosí, las lagunas del Kari Kari y el Cerro Rico de Potosí constituyen el Patrimonio Cultural de la Humanidad, un título otorgado por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (Unesco, por sus siglas en inglés) el año 1987, lo cual constituyó un motivo de alegría para la población.",
+      "image": "./assets/img/Casa-de-la-Moneda-Potosi-Bolivia.jpg"
+    },
+    "gastronomy": {
+      "title": "Gastronomía",
+      "text": "Los Platos típicos de Potosí son Cazuela, Ají de Pataskha, Chambergos, Chajchu, Calapurka entre otros que son característicos de la villa imperial. Cazuela: Se trata de una sopa hecha de maní, acompañada con papas, arroz o fideo y carne de cordero.",
+      "image": "./assets/img/potosi-view2.jpg"
+    },
+    "culture": {
+      "title": "Culturas Vivas",
+      "text": "Potosí ―generalmente conocida como la Villa Imperial de Potosí― es una ciudad del sur de Bolivia, capital del departamento del mismo nombre y de la provincia de Tomás Frías. Se extiende a las faldas de una legendaria montaña llamada Cerro Rico (en quechua: ‘Sumaj Orcko’), en la cual se situó la mina de plata más grande del mundo desde mediados del siglo XVI hasta mediados del siglo XVII.",
+      "image": "./assets/img/potosi-view4.jpg"
+    }
+  },
+  "contacts": {
+    "entity": "Ministerio de Desarrollo Productivo y Economía Plural",
+    "subentity": "Viceministerio de Turismo",
+    "address": "Calle Mercado, edificio Mcl. Ballivian, piso 18. La Paz – Bolivia",
+    "email": "info@produccion.gob.bo",
+    "phone": "+591 (2) 2184444",
+    "fax": "+591 (2) 2124933",
+    "socials": [
+      { "name": "Facebook", "url": "https://www.facebook.com/vmtbolivia", "icon": "fab fa-facebook", "desc": "Viceministerio de Turismo" },
+      { "name": "YouTube", "url": "https://www.youtube.com/channel/UCJH90kEH04vCNS4jUU29Fhw", "icon": "fab fa-youtube", "desc": "Viceministerio de Turismo" },
+      { "name": "Pagina Web", "url": "https://produccion.gob.bo/", "icon": "fas fa-globe", "desc": "Ministerio de Desarrollo Productivo" },
+      { "name": "Instagram", "url": "https://www.instagram.com/vmtbolivia/", "icon": "fab fa-instagram", "desc": "Viceministerio de Turismo" },
+      { "name": "Teléfono", "url": "tel:+59122356738", "icon": "fas fa-phone-alt", "desc": "Viceministerio de Turismo: (+591) 2-2356738" }
+    ]
+  }
+}
